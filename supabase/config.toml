@@ -1,0 +1,4 @@
+project_id = "rirdqlhaomiszwksszxe"
+
+[functions.fetch-mgnrega-data]
+verify_jwt = false
